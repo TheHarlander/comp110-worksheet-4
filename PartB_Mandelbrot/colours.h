@@ -1,7 +1,8 @@
 #pragma once
 
-struct Colour
+class Colour
 {
+public:
 	unsigned char r, g, b;
 };
 
