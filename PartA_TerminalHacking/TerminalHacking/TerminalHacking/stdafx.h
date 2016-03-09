@@ -13,10 +13,3 @@
 
 
 // TODO: reference additional headers your program requires here
-
-#include <iostream>
-#include <fstream>
-#include <vector>
-#include <string>
-#include <set>
-#include <time.h>
